@@ -11,7 +11,7 @@
     <td>Tailwind</td>
     <td>HTML</td>
     <td>Vite</td>
-    <td>React/<td>
+    <td>React</td>
   </tr>
   
 </table>
