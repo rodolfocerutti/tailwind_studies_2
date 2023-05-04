@@ -1,4 +1,4 @@
-# <h1>Tailwind</h1>
+<<h1>Tailwind</h1>
 
 > Status: In progress ✔️
 
@@ -16,13 +16,16 @@
   
 </table>
 
-## Updates - 24/04/2023
+## Updates - 03/05/2023
 
 + Completed course on Tailwind
++ Navbar creation
++ Header creation
++ Cards creation
 
 ## Links
 
-- Live Site URL: (https://tailwind-studies-8nou.vercel.app/)
+- Live Site URL: (https://tailwind-studies-2-tp1c.vercel.app/)
 
 ## Contact
 
