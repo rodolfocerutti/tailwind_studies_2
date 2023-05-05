@@ -1,6 +1,6 @@
 <<h1>Tailwind</h1>
 
-> Status: In progress ✔️
+> Status: Complet ✔️
 
 ### Learning more about tailwind. I decided to take a study that someone did so I could learn more. The person used vite, I tried to replicate it for my project and thus also learn to use npm from node js.
 
@@ -11,7 +11,7 @@
     <td>Tailwind</td>
     <td>HTML</td>
     <td>Vite</td>
-    <td>React/<td>
+    <td>React</td>
   </tr>
   
 </table>
@@ -22,6 +22,7 @@
 + Navbar creation
 + Header creation
 + Cards creation
++ Form creation
 
 ## Links
 
